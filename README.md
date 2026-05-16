@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# ♟️ PyGame Chess AI ♟️
+# ♟️ Chess AI ♟️
 
 A fully playable Python + Pygame chess game with human vs. human and human vs. AI modes, powered by Negamax with Alpha-Beta pruning, complete with castling, en passant, pawn promotion, undo and custom board themes.
 
