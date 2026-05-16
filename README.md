@@ -27,8 +27,8 @@ A fully playable Python + Pygame chess game with human vs. human and human vs. A
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="assets/Screenshots/Screenshot-1.png" width="45%" />
-  <img src="assets/Screenshots/Screenshot-2.png" width="45%" />
+  <img src="assets/Screenshots/Screenshot-1.png" width="47%" />
+  <img src="assets/Screenshots/Screenshot-2.png" width="47%" />
 </p>
 
 > _The board mid-game - legal moves highlighted, AI thinking as Black_
@@ -39,7 +39,7 @@ A fully playable Python + Pygame chess game with human vs. human and human vs. A
 
 <p align="center">
   <img src="./assets/Recording.gif" 
-       width="900" 
+       width="850" 
        alt="Gameplay Demo">
 </p>
 
