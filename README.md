@@ -26,22 +26,24 @@ A fully playable Python + Pygame chess game with human vs. human and human vs. A
 
 ## 🖼️ Screenshot
 
-<!-- Add your screenshot after uploading to the repo -->
-![Chess Board Screenshot](screenshots/gameplay.png)
+<p align="center">
+  <img src="assets/Screenshots/Screenshot-1.png" width="45%" />
+  <img src="assets/Screenshots/Screenshot-2.png" width="45%" />
+</p>
 
-> _The board mid-game — legal moves highlighted, AI thinking as Black_
+> _The board mid-game - legal moves highlighted, AI thinking as Black_
 
 ---
 
 ## 🎥 Demo Video
 
-<!-- Option 1: GitHub-hosted video (drag into an issue to get the asset URL) -->
-https://github.com/MusaIslamFahad/pygame-chess-ai/assets/YOUR_ASSET_ID/your-demo-video.mp4
+<p align="center">
+  <img src="./assets/Recording.gif" 
+       width="900" 
+       alt="Gameplay Demo">
+</p>
 
-<!-- Option 2: YouTube — uncomment and replace link -->
-<!-- [![Watch the Demo](screenshots/gameplay.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
-
-> _Full gameplay demo — Human vs. AI on Hard (Depth 4)_
+> _Full gameplay demo - Human vs. AI on Hard (Depth 4)_
 
 ---
 
